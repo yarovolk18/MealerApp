@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pages.RegisterCook">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="40dp">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginBottom="10dp"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/logo2" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="50px"
+                android:paddingBottom="50px"
+                android:text="Before you can start cooking, we need some starter information to create your profile!"
+                android:textColor="#1B1B1B" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/first_name"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="First Name"
+                android:inputType="textPersonName"
+                android:textColor="#202020"
+                android:textColorHint="#202020"
+                android:textSize="14sp" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/last_name"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="Last Name"
+                android:inputType="textPersonName"
+                android:textColor="#202020"
+                android:textColorHint="#202020"
+                android:textSize="14sp" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/user_name"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="Enter Email (Username)"
+                android:inputType="textEmailAddress"
+                android:textColor="#202020"
+                android:textColorHint="#202020"
+                android:textSize="14sp" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/enter_password"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="Enter Password"
+                android:inputType="textPassword"
+                android:textColor="#202020"
+                android:textColorHint="#202020"
+                android:textSize="14sp" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/confirm_password"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="Confirm Password"
+                android:inputType="textPassword"
+                android:textColor="#202020"
+                android:textColorHint="#202020"
+                android:textSize="14sp" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/enter_address"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="Address (house#, street, postal code)"
+                android:inputType="textPostalAddress"
+                android:textColor="#202020"
+                android:textColorHint="#202020"
+                android:textSize="14sp" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/enter_info"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:hint="Info about yourself"
+                android:textColor="#202020"
+                android:textColorHint="#202020"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/error_message_cook"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/btn_upload_cheque"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FF474B"
+                android:onClick="clickOnUploadCheque"
+                android:text="Upload Void Cheque"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/btn_register_cook"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FF474B"
+                android:onClick="clickOnRegisterCook"
+                android:text="Register"
+                android:textColor="#FFFFFF"
+                android:textColorHint="#FFFFFF" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

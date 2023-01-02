@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_register_client.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_register_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_content_scrolling.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout-w1240dp_content_scrolling.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout-w1240dp\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_view_orders.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_view_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_make_complaint.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_make_complaint.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable-v24_logo2.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable-v24\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable-v24_login_main_asset.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable-v24\\login_main_asset.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_add_meals.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_add_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable-v24_food_search.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable-v24\\food_search.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_client_home.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_client_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable_poop.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable\\poop.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_order_meal.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_order_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_admin_home.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_admin_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-merged_res-33:/layout_activity_order_meal.xml.flat",
+        "source": "com.example.mealerapp-main-35:/layout/activity_order_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable_cookhat.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable\\cookhat.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable_food.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\menu_menu_order_meal.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\menu\\menu_order_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable_reg.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable\\reg.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable-v24_username_asset.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable-v24\\username_asset.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_view_complaints.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_view_complaints.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable_upload.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable\\upload.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout-w936dp_content_scrolling.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout-w936dp\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable_mainactivity.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable\\mainactivity.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_cook_home.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_cook_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable_viewmc.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable\\viewmc.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_order_view_client.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_order_view_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable_poo.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable\\poo.png"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_view_meals.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_view_meals.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_register_cook.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_register_cook.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\layout_activity_up_load_void_cheque.xml.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\layout\\activity_up_load_void_cheque.xml"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-merged_res-33:\\drawable-v24_psw_asset.png.flat",
+        "source": "C:\\Users\\yarov\\.gradle\\daemon\\7.4\\com.example.mealerapp-main-35:\\drawable-v24\\psw_asset.png"
+    }
+]

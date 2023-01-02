@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".pages.View_Meals">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding = "5dp"
+        tools:ignore="MissingConstraints">
+
+        <ImageView
+            android:id="@+id/imageComplaint"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center_horizontal"
+            android:background="#FFFFFF"
+            app:srcCompat="@drawable/cookhat"
+            tools:src="@drawable/cookhat" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            tools:ignore="MissingConstraints">
+
+            <Switch
+                android:id="@+id/isOffered"
+                android:layout_width="216dp"
+                android:layout_height="wrap_content"
+                android:onClick="checkOnOff"
+                android:text="Show only offered meals"
+                android:textAlignment="textStart"
+                tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+            <Button
+                android:id="@+id/add_meal"
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FF474B"
+                android:onClick="addMealsClick"
+                android:text="Add Meal"
+                android:textColor="#FFFFFF"
+                tools:visibility="visible" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/listComplaints"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:text="Meal List"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20dp" />
+
+        /*
+
+        <TextView
+            android:id="@+id/meal_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1" />
+
+        <TextView
+            android:id="@+id/meal_two"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+
+        <TextView
+            android:id="@+id/meal_three"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+
+        <TextView
+            android:id="@+id/meal_four"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+
+        <TextView
+            android:id="@+id/meal_five"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />*/
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/go_left"
+                android:layout_width="183dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FF474B"
+                android:onClick="clickGoLeft"
+                android:text="Previous Page"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/go_right"
+                android:layout_width="178dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FF474B"
+                android:onClick="clickGoRight"
+                android:text="Next Page"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/removeMeal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FF474B"
+            android:onClick="deleteMealsClick"
+            android:text="Delete Meal"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

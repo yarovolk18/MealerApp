@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pages.OrderMeal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding = "5dp"
+        tools:ignore="MissingConstraints">
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="360dp"
+            android:layout_height="142dp"
+            app:srcCompat="@drawable/food_search" />
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding = "5dp"
+        tools:ignore="MissingConstraints">
+        <EditText
+            android:id="@+id/searchBar"
+            android:layout_width="292dp"
+            android:layout_height="50dp"
+            android:hint="Search for a meal..."
+            android:textColor="@color/black"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/searchNow"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FF474B"
+            android:onClick="searchForMeal"
+            android:text="🔍" />
+    </LinearLayout>
+
+        <TextView
+            android:id="@+id/meal_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/go_left"
+                android:layout_width="175dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FF474B"
+                android:onClick="clickGoLeft"
+                android:text="Previous Page"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/go_right"
+                android:layout_width="174dp"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#FF474B"
+                android:onClick="clickGoRight"
+                android:text="Next Page"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/Order"
+            android:layout_width="360dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FF474B"
+            android:onClick="order"
+            android:text="Order this meal!"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

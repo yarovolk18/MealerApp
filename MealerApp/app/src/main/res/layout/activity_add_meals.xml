@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pages.Add_Meals">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/foodImage"
+            android:layout_width="200dp"
+            android:layout_height="177dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0"
+            app:srcCompat="@drawable/food" />
+
+        <EditText
+            android:id="@+id/mealName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter a meal name" />
+
+        <EditText
+            android:id="@+id/mealType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter the meal type" />
+
+        <EditText
+            android:id="@+id/mealDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter a description of your meal" />
+
+        <EditText
+            android:id="@+id/cuisineType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter the cuisine type" />
+
+        <EditText
+            android:id="@+id/ingredientsList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter a list of ingredients separated by a comma" />
+
+        <EditText
+            android:id="@+id/allergensList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter a list of allergens separated by a comma" />
+
+        <EditText
+            android:id="@+id/price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter price for the meal" />
+
+        <Switch
+            android:id="@+id/isOffered"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Switch On to add to offered meals list"
+            android:textAlignment="textStart"
+            tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+        <Button
+            android:id="@+id/addMealNow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FF474B"
+            android:onClick="addMeals"
+            android:text="Add Meal!"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+</ScrollView>
